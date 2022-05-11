@@ -1,0 +1,16 @@
+
+.search-box{
+ margin-top: 20px;
+ margin: auto;
+}
+.search-container{
+  margin: auto;
+ 
+}
+input{
+    height: 30px;
+    font-size: 25px;
+}
+body{
+  background-color: lightgray;
+}
